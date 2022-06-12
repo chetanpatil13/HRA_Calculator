@@ -1,4 +1,4 @@
-# HRA Calculator 
+# HRA Calculator with command line and Class implementation 
 # Author : Embedded Bro
 
 
